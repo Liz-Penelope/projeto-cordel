@@ -22,9 +22,8 @@ html, body {
     font-family: var(--fonte1);
 }
 
-header {
-    background-color: black;
-    
+header {   
+    background-image: linear-gradient(to top, black, #1d1c1ca0);
     color: white;
     text-align: center;
 }
@@ -90,8 +89,8 @@ section#img02 {
     background-image: url(../imagens/background002.jpg);    
 }
 
-footer {
-    background-color: black;
+footer {    
+    background-image: linear-gradient(to top, black, #1d1c1cb4);
     color: white;
     text-align: center;
     padding: 10px;
